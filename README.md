@@ -5,6 +5,8 @@ All about go language
 
 📑 https://github.com/RajendraTaradale/golang
 
+📑 https://gitlab.com/nanuchi/go-full-course-youtube
+
 # Go Commands
 go mod init C:/yourlocalPath 
 
