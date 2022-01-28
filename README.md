@@ -3,6 +3,8 @@ All about go language
 
 📑 https://github.com/RajendraTaradale/Golang-Tutorials
 
+📑 https://github.com/RajendraTaradale/golang
+
 # Go Commands
 go mod init C:/yourlocalPath 
 
