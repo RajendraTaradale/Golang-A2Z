@@ -1,5 +1,6 @@
-# Golang-A2Z
-All about go language 
+# :diamond_shape_with_a_dot_inside: Golang-A2Z :diamond_shape_with_a_dot_inside:
+
+# Code Repository 
 
 📑 https://github.com/RajendraTaradale/Golang-Tutorials
 
