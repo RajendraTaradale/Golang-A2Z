@@ -12,6 +12,8 @@
 
 💡 https://go.mongodb.org/
 
+  https://github.com/plutov/packagemain
+
 # Go Commands
 go mod init C:/yourlocalPath 
 
