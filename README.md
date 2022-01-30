@@ -8,6 +8,8 @@
 
 📑 https://gitlab.com/nanuchi/go-full-course-youtube
 
+📑 https://github.com/confluentinc/confluent-kafka-go
+
 💡 https://go.mongodb.org/
 
 # Go Commands
