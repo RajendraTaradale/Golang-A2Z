@@ -12,7 +12,9 @@
 
 💡 https://go.mongodb.org/
 
-  https://github.com/plutov/packagemain
+📑 https://github.com/plutov/packagemain
+  
+📑 https://github.com/elig-salt/go-intro
 
 # Go Commands
 go mod init C:/yourlocalPath 
