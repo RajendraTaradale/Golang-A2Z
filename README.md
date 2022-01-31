@@ -16,6 +16,8 @@
   
 📑 https://github.com/elig-salt/go-intro
 
+📑 https://github.com/aedorado/learning-go/tree/master/Basics/1
+
 # Go Commands
 go mod init C:/yourlocalPath 
 
