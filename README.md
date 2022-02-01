@@ -20,6 +20,10 @@
 
 📑 https://github.com/aedorado/learning-go/tree/master/Basics/1
 
+# Golang Web Frameworks
+
+*️⃣  Fiber  *️⃣ Iris *️⃣ Gorilla web toolkit *️⃣ Beego *️⃣ echo *️⃣ Gin 
+
 # Go Commands
 go mod init C:/yourlocalPath 
 
