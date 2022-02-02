@@ -20,6 +20,8 @@
 
 📑 https://github.com/aedorado/learning-go/tree/master/Basics/1
 
+📑 https://github.com/AkhilSharma90/golang-todo [go-chi/chi, VueJS]
+
 # Golang Web Frameworks
 
 *️⃣  Fiber  *️⃣ Iris *️⃣ Gorilla web toolkit *️⃣ Beego *️⃣ echo *️⃣ Gin 
