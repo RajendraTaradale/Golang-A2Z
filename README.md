@@ -22,6 +22,8 @@
 
 📑 https://github.com/AkhilSharma90/golang-todo [go-chi/chi, VueJS]
 
+📑 https://github.com/campoy/justforfunc
+
 # Golang Web Frameworks
 
 *️⃣  Fiber  *️⃣ Iris *️⃣ Gorilla web toolkit *️⃣ Beego *️⃣ echo *️⃣ Gin 
