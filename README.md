@@ -12,6 +12,8 @@
 
 📑 https://github.com/confluentinc/confluent-kafka-go
 
+📑 https://github.com/TutorialEdge/beginners-guide-to-go 📑 https://github.com/TutorialEdge/go-generic-algorithms
+
 💡 https://go.mongodb.org/
 
 📑 https://github.com/plutov/packagemain
