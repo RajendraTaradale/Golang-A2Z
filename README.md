@@ -26,6 +26,7 @@
 
 📑 https://github.com/campoy/justforfunc
 
+📑 https://github.com/RajendraTaradale/simplebank -- Authorization with Bank Demo
 # Golang Web Frameworks
 
 *️⃣  Fiber  *️⃣ Iris *️⃣ Gorilla web toolkit *️⃣ Beego *️⃣ echo *️⃣ Gin 
