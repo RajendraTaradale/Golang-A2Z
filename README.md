@@ -29,6 +29,16 @@
 📑 https://github.com/RajendraTaradale/simplebank -- Authorization with Bank Demo
 # Golang Web Frameworks
 
+📑 Go lang migrations 
+$ go get -u github.com/pressly/goose/cmd/goose
+*️⃣ https://golangbot.com/mysql-create-table-insert-row/
+*️⃣ https://github.com/cockroachdb/examples-go/blob/master/photos/db.go
+
+📑 flutter Build
+flutter clean
+flutter pub get
+flutter packages pub run build_runner build --delete-conflicting-outputs
+
 *️⃣  Fiber  *️⃣ Iris *️⃣ Gorilla web toolkit *️⃣ Beego *️⃣ echo *️⃣ Gin 
 
 # Go Commands
