@@ -62,3 +62,5 @@ go build .
   https://github.com/navkar/golang
 
   https://gophersnippets.com/
+
+https://www.golangprograms.com/dynamic-json-parser-without-struct-in-golang.html
