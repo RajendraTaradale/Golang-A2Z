@@ -64,3 +64,4 @@ go build .
   https://gophersnippets.com/
 
 https://www.golangprograms.com/dynamic-json-parser-without-struct-in-golang.html
+https://gist.github.com/kousik93/6d95c4c4d37d8c731d7b loop json and find path/value and type 
